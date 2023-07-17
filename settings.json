@@ -207,13 +207,13 @@
     "editor.defaultFormatter": "vscode.json-language-features"
   },
   "workbench.editor.untitled.hint": "hidden",
-  "workbench.colorTheme": "Omni",
+  "workbench.colorTheme": "Sweet Dracula",
   "liveServer.settings.donotShowInfoMsg": true,
   "[json]": {
     "editor.defaultFormatter": "vscode.json-language-features"
   },
   "window.commandCenter": true,
   "git.openRepositoryInParentFolders": "always",
-  "window.zoomLevel": 1,
+  "window.zoomLevel": 0,
   "bracket-pair-colorizer-2.depreciation-notice": false
 }
