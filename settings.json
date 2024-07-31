@@ -16,5 +16,19 @@
   },
   "terminal.integrated.fontSize": 14,
   "terminal.integrated.fontFamily": "JetBrainsMono Nerd Font",
-  "editor.fontSize": 17
+  "editor.fontSize": 17,
 }
+
+
+/*
+            EXTENSÕES USADAS
+
+  Prettier - Code formatter
+  Material Icon Theme
+  Live Server
+  indent-rainbow
+  Color Highlight
+  vscode-random
+  Error Lens
+
+*/
