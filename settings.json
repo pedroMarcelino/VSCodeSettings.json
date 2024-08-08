@@ -1,7 +1,7 @@
 {
   "terminal.external.windowsExec": "C:\\Program Files\\Git\\bin\\bash.exe",
   "editor.formatOnSave": true,
-  "editor.renderWhitespace": "none",
+  "editor.renderWhitespace": "all",
   "git.openRepositoryInParentFolders": "always",
   "window.zoomLevel": 0,
   "editor.minimap.enabled": true,
@@ -15,11 +15,12 @@
     "node_modules": true
   },
   "terminal.integrated.fontSize": 14,
-  "terminal.integrated.fontFamily": "JetBrainsMono Nerd Font",
+  "terminal.integrated.fontFamily": "monospace",
   "editor.fontSize": 17,
+  "editor.fontFamily": "Fira Code",
   "editor.stickyScroll.enabled": false,
+  "security.workspace.trust.untrustedFiles": "open",
 }
-
 
 /*
             EXTENSÕES USADAS
