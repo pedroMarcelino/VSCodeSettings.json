@@ -14,32 +14,36 @@
     "**/.git": true,
     "node_modules": true
   },
-  "terminal.integrated.fontSize": 14,
+  "terminal.integrated.fontSize": 17,
   "terminal.integrated.fontFamily": "monospace",
   "editor.fontSize": 17,
-  "editor.fontFamily": "Fira Code",
+  "editor.fontFamily": "Space Mono, Fira Code",
   "editor.stickyScroll.enabled": false,
   "security.workspace.trust.untrustedFiles": "open",
-  "editor.tabSize": 4,
   "editor.insertSpaces": true,
+  "terminal.integrated.env.windows": {},
+  "[javascript]": {
+    "editor.defaultFormatter": "vscode.typescript-language-features"
+  },
+  "explorer.compactFolders": false,
 }
 
 /*
-            EXTENSÕES USADAS
-
-  Prettier - Code formatter
-  Material Icon Theme
-  Live Server
-  Laravel snippets
-  laravel blade snippets
-  intelliPhp
-  php all in one
-  php profile
-  docker 
-  compose
-  indent-rainbow
-  Color Highlight
-  vscode-random
-  Error Lens
-
-*/
+              EXTENSÕES USADAS
+  
+    Prettier - Code formatter
+    Material Icon Theme
+    Live Server
+    Laravel snippets
+    laravel blade snippets
+    intelliPhp
+    php all in one
+    php profile
+    docker 
+    compose
+    indent-rainbow
+    Color Highlight
+    vscode-random
+    Error Lens
+  
+  */
