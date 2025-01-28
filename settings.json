@@ -26,6 +26,8 @@
     "editor.defaultFormatter": "vscode.typescript-language-features"
   },
   "explorer.compactFolders": false,
+  "workbench.colorTheme": "Dracula Theme",
+  "bootstrapAutocomplete.version": "5.3",
 }
 
 /*
